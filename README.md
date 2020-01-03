@@ -6,7 +6,7 @@ Please send an email to z.d.l.0500@gmail.com indicating the content you would li
   Assembles a series of binary trees from IMDB data for fast searching.
   
 ### Linked list text analyzer:
-  (CIS*2520 Assignment 2) A library of functions written to analyze large text files. 
+  A library of functions written to analyze large text files. 
   Builds the list, includes an iterative merge sort, search, remove duplicates, etc.
 
 ### DND dungeon generator:
